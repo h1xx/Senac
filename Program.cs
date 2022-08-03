@@ -11,7 +11,7 @@ while (looping)
     Console.WriteLine("Escreva seu nome");
     nome = Console.ReadLine();
 
-    if (nome => 3)
+    if (nome.Length > 2)
     {
         Console.WriteLine("Nome cadastrado com sucesso!");
         looping = false;
