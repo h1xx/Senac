@@ -1,4 +1,6 @@
-﻿string nome, endereco, telefone, email, menu;
+﻿
+//Atividade de cadastro de pessoas
+string nome, endereco, telefone, email, menu;
 int idade;
 bool looping = true;
 
